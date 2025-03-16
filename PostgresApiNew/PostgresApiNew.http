@@ -1,0 +1,5 @@
+@PostgresApiNew_HostAddress = http://localhost:5126
+
+GET {{PostgresApiNew_HostAddress}}/weatherforecast/
+Accept: application/jso
+###
